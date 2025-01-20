@@ -1,0 +1,274 @@
+{
+  "citas_medicas": [
+    {
+      "nid": "CM001",
+      "medico_id": 1,
+      "especialidad_id": 3,
+      "fecha": "2025-01-21",
+      "horario": "09:00",
+      "consultorio": "A-101",
+      "paciente_id": "P001",
+      "medico": {
+        "id": 1,
+        "nombre": "Dr. Juan Pérez",
+        "licencia": "MED12345"
+      },
+      "especialidad": {
+        "id": 3,
+        "nombre": "Cardiología"
+      }
+    },
+    {
+      "nid": "CM002",
+      "medico_id": 2,
+      "especialidad_id": 1,
+      "fecha": "2025-01-21",
+      "horario": "10:30",
+      "consultorio": "B-202",
+      "paciente_id": "P002",
+      "medico": {
+        "id": 2,
+        "nombre": "Dra. María García",
+        "licencia": "MED67890"
+      },
+      "especialidad": {
+        "id": 1,
+        "nombre": "Medicina General"
+      }
+    },
+    {
+      "nid": "CM003",
+      "medico_id": 3,
+      "especialidad_id": 2,
+      "fecha": "2025-01-21",
+      "horario": "11:45",
+      "consultorio": "C-303",
+      "paciente_id": "P003",
+      "medico": {
+        "id": 3,
+        "nombre": "Dr. Carlos Rodríguez",
+        "licencia": "MED11223"
+      },
+      "especialidad": {
+        "id": 2,
+        "nombre": "Pediatría"
+      }
+    },
+    {
+      "nid": "CM004",
+      "medico_id": 4,
+      "especialidad_id": 4,
+      "fecha": "2025-01-21",
+      "horario": "14:15",
+      "consultorio": "D-404",
+      "paciente_id": "P004",
+      "medico": {
+        "id": 4,
+        "nombre": "Dra. Ana Martínez",
+        "licencia": "MED44556"
+      },
+      "especialidad": {
+        "id": 4,
+        "nombre": "Dermatología"
+      }
+    },
+    {
+      "nid": "CM005",
+      "medico_id": 5,
+      "especialidad_id": 5,
+      "fecha": "2025-01-21",
+      "horario": "16:00",
+      "consultorio": "E-505",
+      "paciente_id": "P005",
+      "medico": {
+        "id": 5,
+        "nombre": "Dr. Roberto Sánchez",
+        "licencia": "MED99887"
+      },
+      "especialidad": {
+        "id": 5,
+        "nombre": "Traumatología"
+      }
+    },
+    {
+      "nid": "CM006",
+      "medico_id": 6,
+      "especialidad_id": 6,
+      "fecha": "2025-01-22",
+      "horario": "08:30",
+      "consultorio": "A-102",
+      "paciente_id": "P006",
+      "medico": {
+        "id": 6,
+        "nombre": "Dra. Laura Torres",
+        "licencia": "MED77665"
+      },
+      "especialidad": {
+        "id": 6,
+        "nombre": "Oftalmología"
+      }
+    },
+    {
+      "nid": "CM007",
+      "medico_id": 7,
+      "especialidad_id": 7,
+      "fecha": "2025-01-22",
+      "horario": "09:45",
+      "consultorio": "B-203",
+      "paciente_id": "P007",
+      "medico": {
+        "id": 7,
+        "nombre": "Dr. Miguel Ángel López",
+        "licencia": "MED33221"
+      },
+      "especialidad": {
+        "id": 7,
+        "nombre": "Neurología"
+      }
+    },
+    {
+      "nid": "CM008",
+      "medico_id": 8,
+      "especialidad_id": 8,
+      "fecha": "2025-01-22",
+      "horario": "11:00",
+      "consultorio": "C-304",
+      "paciente_id": "P008",
+      "medico": {
+        "id": 8,
+        "nombre": "Dra. Patricia Ramírez",
+        "licencia": "MED88776"
+      },
+      "especialidad": {
+        "id": 8,
+        "nombre": "Ginecología"
+      }
+    },
+    {
+      "nid": "CM009",
+      "medico_id": 9,
+      "especialidad_id": 9,
+      "fecha": "2025-01-22",
+      "horario": "12:30",
+      "consultorio": "D-405",
+      "paciente_id": "P009",
+      "medico": {
+        "id": 9,
+        "nombre": "Dr. Fernando Díaz",
+        "licencia": "MED55443"
+      },
+      "especialidad": {
+        "id": 9,
+        "nombre": "Psiquiatría"
+      }
+    },
+    {
+      "nid": "CM010",
+      "medico_id": 10,
+      "especialidad_id": 10,
+      "fecha": "2025-01-22",
+      "horario": "15:00",
+      "consultorio": "E-506",
+      "paciente_id": "P010",
+      "medico": {
+        "id": 10,
+        "nombre": "Dra. Carmen Vargas",
+        "licencia": "MED22334"
+      },
+      "especialidad": {
+        "id": 10,
+        "nombre": "Endocrinología"
+      }
+    },
+    {
+      "nid": "CM011",
+      "medico_id": 1,
+      "especialidad_id": 3,
+      "fecha": "2025-01-23",
+      "horario": "08:00",
+      "consultorio": "A-101",
+      "paciente_id": "P011",
+      "medico": {
+        "id": 1,
+        "nombre": "Dr. Juan Pérez",
+        "licencia": "MED12345"
+      },
+      "especialidad": {
+        "id": 3,
+        "nombre": "Cardiología"
+      }
+    },
+    {
+      "nid": "CM012",
+      "medico_id": 2,
+      "especialidad_id": 1,
+      "fecha": "2025-01-23",
+      "horario": "09:30",
+      "consultorio": "B-202",
+      "paciente_id": "P012",
+      "medico": {
+        "id": 2,
+        "nombre": "Dra. María García",
+        "licencia": "MED67890"
+      },
+      "especialidad": {
+        "id": 1,
+        "nombre": "Medicina General"
+      }
+    },
+    {
+      "nid": "CM013",
+      "medico_id": 3,
+      "especialidad_id": 2,
+      "fecha": "2025-01-23",
+      "horario": "10:45",
+      "consultorio": "C-303",
+      "paciente_id": "P013",
+      "medico": {
+        "id": 3,
+        "nombre": "Dr. Carlos Rodríguez",
+        "licencia": "MED11223"
+      },
+      "especialidad": {
+        "id": 2,
+        "nombre": "Pediatría"
+      }
+    },
+    {
+      "nid": "CM014",
+      "medico_id": 4,
+      "especialidad_id": 4,
+      "fecha": "2025-01-23",
+      "horario": "13:15",
+      "consultorio": "D-404",
+      "paciente_id": "P014",
+      "medico": {
+        "id": 4,
+        "nombre": "Dra. Ana Martínez",
+        "licencia": "MED44556"
+      },
+      "especialidad": {
+        "id": 4,
+        "nombre": "Dermatología"
+      }
+    },
+    {
+      "nid": "CM015",
+      "medico_id": 5,
+      "especialidad_id": 5,
+      "fecha": "2025-01-23",
+      "horario": "15:00",
+      "consultorio": "E-505",
+      "paciente_id": "P015",
+      "medico": {
+        "id": 5,
+        "nombre": "Dr. Roberto Sánchez",
+        "licencia": "MED99887"
+      },
+      "especialidad": {
+        "id": 5,
+        "nombre": "Traumatología"
+      }
+    }
+  ]
+}
